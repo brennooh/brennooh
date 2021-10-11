@@ -62,4 +62,8 @@
     </a>
   </div>
 <br><br>
-https://github-readme-stats.vercel.app/api/top-langs/?username=brennooh
+<div align=center>
+    <a href="https://github.com/brennooh/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennooh"/>
+        </a>
+  </div>
