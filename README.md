@@ -58,12 +58,6 @@
 </br>
 <div align=center>
     <a href="https://github.com/brennooh/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennooh&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennooh&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=4&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
-  </div>
-<br><br>
-<div align=center>
-    <a href="https://github.com/brennooh/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennooh"/>
-        </a>
   </div>
