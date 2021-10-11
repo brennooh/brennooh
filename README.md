@@ -2,7 +2,7 @@
   Bem vindo ao meu perfil. 👋<br>
   Eu sou o Brenno, e é um prazer ter você por aqui! 👀<br>
   Atualmente curso Engenharia de Computação 🎓 e estou em constante aprendizado pra me tornar um Dev FullStack cada vez melhor! 💻<br>
-  Sou completamente apaixonado por Teconologia, Games, Animais & Gastronomia. 🎮  🐼 🐶 🐦 🍫 ☕<br>
+  Sou completamente apaixonado por Tecnologia, Games, Animais & Gastronomia. 🎮  🐼 🐶 🐦 🍫 ☕<br>
   Entusiasta de CyberSecurity, IoT e I.A!
 </h3>
 <!-- icones de redes sociais -->
